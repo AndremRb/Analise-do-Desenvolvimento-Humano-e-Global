@@ -1,0 +1,38 @@
+#### Temas
+1 - Educação / Fonte: 
+2 - Economia / Fonte: 
+3 - Saúde / Fonte: 
+4 - Transporte / Fonte: 
+5 - Turismo / Fonte: 
+
+### Perguntas
+- Educação
+    1 - Como o PIB se relaciona com o nível de escolaridade do pais?
+    2 - Países com maior gasto público em educação (% do PIB) apresentam maior longevidade?
+
+- Saúde
+    1- Países que gastam mais em saúde per capita têm maior expectativa de vida, mesmo quando o PIB per capita é parecido?
+    2- A mortalidade infantil explica melhor as diferenças de expectativa de vida entre países 
+        ricos e pobres do que o PIB per capita?
+    3 - Países com mais veículos por habitante têm melhor longevidade
+    4 - A taxa de obesidade cresce junto com o PIB per capita?
+    5 - Países com mais médicos por mil habitantes têm maior expectativa de 
+    vida, mesmo descontando o efeito do PIB per capita?
+
+- Economia
+    1 - Países com maiores taxas de inflação apresentam diferenças no crescimento do PIB per 
+    capita em comparação com países com inflação mais estável?
+    2 - Países com maior participação do comércio internacional em suas economias apresentam maior PIB per capita?
+    3 - Países com maiores taxas de desemprego apresentam menor 
+    crescimento do PIB per capita ou diferenças nos níveis de renda entre países?
+    4 - A diferença de expectativa de vida entre homens e mulheres aumenta ou diminui 
+    conforme o PIB per capita cresce?
+
+- Turismo
+    1 - Existe alguma correlação entre turismo e segurança
+    2 - Variação do volume de viagens nacionais e intercionais no país conforme evolução do PIB per capita.
+    3 - O volume de passageiros aéreos cresce proporcionalmente 
+    à População ou ele é quase que exclusivamente ditado pelo PIB per capita?
+
+- Transporte
+    1 - Como o investimento no transporte impacta no nível de escolaridade por país?
