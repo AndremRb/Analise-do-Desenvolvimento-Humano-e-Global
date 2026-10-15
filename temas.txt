@@ -6,11 +6,11 @@
 5 - Turismo / Fonte: 
 
 ### Perguntas
-- Educação
-    1 - Como o PIB se relaciona com o nível de escolaridade do pais?
+- Educação - Gabriel
+    1 - Como o PIB se relaciona com o nível de escolaridade do pais? 
     2 - Países com maior gasto público em educação (% do PIB) apresentam maior longevidade?
 
-- Saúde
+- Saúde - Leandro/Gabriel
     1- Países que gastam mais em saúde per capita têm maior expectativa de vida, mesmo quando o PIB per capita é parecido?
     2- A mortalidade infantil explica melhor as diferenças de expectativa de vida entre países 
         ricos e pobres do que o PIB per capita?
@@ -19,7 +19,7 @@
     5 - Países com mais médicos por mil habitantes têm maior expectativa de 
     vida, mesmo descontando o efeito do PIB per capita?
 
-- Economia
+- Economia - André
     1 - Países com maiores taxas de inflação apresentam diferenças no crescimento do PIB per 
     capita em comparação com países com inflação mais estável?
     2 - Países com maior participação do comércio internacional em suas economias apresentam maior PIB per capita?
@@ -28,11 +28,13 @@
     4 - A diferença de expectativa de vida entre homens e mulheres aumenta ou diminui 
     conforme o PIB per capita cresce?
 
-- Turismo
+- Turismo - Thiago
     1 - Existe alguma correlação entre turismo e segurança
     2 - Variação do volume de viagens nacionais e intercionais no país conforme evolução do PIB per capita.
     3 - O volume de passageiros aéreos cresce proporcionalmente 
     à População ou ele é quase que exclusivamente ditado pelo PIB per capita?
 
-- Transporte
+- Transporte - Gabriel
     1 - Como o investimento no transporte impacta no nível de escolaridade por país?
+    ** 2 - Quais regiões brasileiras são mais afetadas com o desperdício e perda de Carga e existe relação com nível 
+    e qualidade das estradas? Qual outro fator impacta mais?
