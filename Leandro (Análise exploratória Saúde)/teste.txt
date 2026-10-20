@@ -1,1 +1,9 @@
 
+ Saúde - Leandro/Gabriel
+    1- Países que gastam mais em saúde per capita têm maior expectativa de vida, mesmo quando o PIB per capita é parecido?
+    2- A mortalidade infantil explica melhor as diferenças de expectativa de vida entre países 
+        ricos e pobres do que o PIB per capita?
+    3 - Países com mais veículos por habitante têm melhor longevidade
+    4 - A taxa de obesidade cresce junto com o PIB per capita?
+    5 - Países com mais médicos por mil habitantes têm maior expectativa de 
+    vida, mesmo descontando o efeito do PIB per capita?
