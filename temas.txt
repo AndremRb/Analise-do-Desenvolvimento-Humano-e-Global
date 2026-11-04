@@ -30,9 +30,8 @@
 
 - Turismo - Thiago
     1 - Existe alguma correlação entre turismo e segurança
-    2 - Variação do volume de viagens nacionais e intercionais no país conforme evolução do PIB per capita.
-    3 - O volume de passageiros aéreos cresce proporcionalmente 
-    à População ou ele é quase que exclusivamente ditado pelo PIB per capita?
+    2 - Variação do volume de viagens nacionais conforme evolução do PIB per capita.
+    3 - Qual é o impacto do preço do petróleo nos setores de transporte aéreo e rodoviário?
 
 - Transporte - Gabriel
     1 - Como o investimento no transporte impacta no nível de escolaridade por país?
